@@ -2,9 +2,8 @@
 Suporte Highlightjs para Portugol Studio.
 
 ### Utilize um dos dois temas disponíveis (light ou dark):
-```
+```html
 <link rel="stylesheet" href="css/portugol-studio-light.css">
-</code></pre>
 ```
 ou
 ```
@@ -12,13 +11,13 @@ ou
 ```
 
 ### Importe o arquivo js/highlight.js e carregue o método initHighlightingOnLoad:
-```
+```html
 <script href="js/highlight.js></script>
 <script>hljs.initHighlightingOnLoad();</script>
 ```
               
 ### Utilize as classes do Highlight para Portugol:
-```
+```html
 <pre><code class="hljs portugol">
     programa
     {

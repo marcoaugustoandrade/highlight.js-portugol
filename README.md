@@ -6,13 +6,13 @@ Suporte Highlightjs para Portugol Studio.
 <link rel="stylesheet" href="css/portugol-studio-light.css">
 ```
 ou
-```
+```html
 <link rel="stylesheet" href="css/portugol-studio-dark.css">
 ```
 
 ### Importe o arquivo js/highlight.js e carregue o método initHighlightingOnLoad:
 ```html
-<script href="js/highlight.js></script>
+<script href="js/highlight.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 ```
               
